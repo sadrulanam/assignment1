@@ -1,0 +1,180 @@
+body {
+    display: block;
+    margin: auto;
+    background-color: silver;
+    
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+h1{
+    font-size: 50px;
+}
+div.a{
+    line-height: 10px;
+}
+div.b{
+    line-height: 20px;
+}
+div.c{
+    line-height:60px;
+}
+p.d{
+    line-height: 20px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-weight: 900;
+}
+p{
+    color: dimgray;
+}
+.highlight {
+    color: blue;
+}
+.half-width{
+    width: 34%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+}
+div{
+    display: block;
+
+}
+.half-width img {
+    width: 100%;
+
+}
+section{
+    height: 450px;
+    padding-bottom:10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+section{
+    display: inline-block;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, yellow, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-family:'Roboto', sans-serif;
+}
+.btn {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family:'Roboto', sans-serif;
+  }
+.project{
+    box-shadow: 5px lightblue;
+    border-radius: 5px;
+    height: 600px;
+    background-color: lightgray;
+    margin-bottom: 80px;
+}
+.one-third{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+.one-third img{
+    width: 100%;
+    ba
+}
+.center{
+    text-align:center ;
+}
+.red{
+    color: red;
+}
+
+}
+.postion{
+    margin-left: 30px;
+}
+.cont{
+    margin-bottom:5px;
+}
+.container{
+    position: relative;
+    height: 200px;
+    width: 80%;
+    margin-left:100px;
+}
+.size{
+    height: 200px;
+    width: 80%;
+    margin-left:200px;
+}
+.text1{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-right:520px;
+}
+.text2{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    ;
+}
+html{
+    display: block;
+}
+.icon{
+    margin-left: 550px;
+    margin-bottom: 100px;
+}
+div.foot{
+    margin-top: 100px;
+    text-align: center;
+}
+.divide{
+    margin-bottom: 80px;
+}
+.big{
+    font-size: 30px;
+    font-family:'Roboto', sans-serif;
+}
+footer{
+    margin-bottom: 0
+}
